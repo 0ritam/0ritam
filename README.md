@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌟 About Me:<br>A rookie in Full Stack development and pursuing MCA with a<br>handful experience of projects built using technologies like Nextjs, Reactjs, Nodejs that include various SaaS and project management applications. I like to build stuff that solve <br>problems and are user friendly<br><br>🎯 Current Projects:<br>⚛️ Developing dynamic web apps with React and TypeScript.<br>💼 Building reusable components and design systems for scalable front-end solutions.<br><br>⚡I Believe:  There is no right  time. Just Time and what you do with with it<br><br>
 
 
