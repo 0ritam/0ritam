@@ -1,5 +1,5 @@
 # About Me:
-🌟 About Me:<br>A rookie in Full Stack development and pursuing MCA with a<br>handful experience of projects built using technologies like Nextjs, Reactjs, Nodejs that include various SaaS and project management applications. I like to build stuff that solve <br>problems and are user friendly<br><br>🎯 Current Projects:<br>⚛️ Developing dynamic web apps with React and TypeScript.<br>💼 Building reusable components and design systems for scalable front-end solutions.<br><br>⚡I Believe:  There is no right  time. Just Time and what you do with with it<br><br>
+🌟 About Me:<br>A rookie in Full Stack development and pursuing MCA with a<br>handful experience of projects built using technologies like Nextjs, Reactjs, Nodejs that include various SaaS and project management applications. I like to build stuff that solve <br>problems and are user friendly<br><br>
 
 
 ## 🌐 Socials:
@@ -12,10 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0ritam&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0ritam&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0ritam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=0ritam&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
